@@ -13,4 +13,4 @@ Skills: PHP / MYSQL / REACT JS / HTML / TAILWIND / FIGMA
 
 <img alt="top langs" align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshizi1&layout=compact" >
 
-<img alt="top langs" align="left" width="50%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=nshizi1&layout=compact](https://github-readme-stats.vercel.app/api?username=nshizi1&show_icons=true&bg_color=00000000)https://github-readme-stats.vercel.app/api?username=nshizi1&show_icons=true&bg_color=00000000" >
+<img alt="my stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nshizi1&show_icons=true&bg_color=00000000" >
