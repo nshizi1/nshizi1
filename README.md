@@ -13,4 +13,4 @@ Skills: PHP / MYSQL / REACT JS / HTML / TAILWIND / FIGMA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nshizi1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshizi1)](https://github.com/nshizi1/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nshizi1&show_icons=true&bg_color=00000000)
